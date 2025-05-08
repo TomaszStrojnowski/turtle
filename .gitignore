@@ -5,3 +5,4 @@ log/
 # pliki Pythona
 *.pyc
 __pycache__/
+**/.git_old*/

@@ -1,6 +1,0 @@
-0000000000000000000000000000000000000000 722e2208cf7a1970048a6046550d16ae0ff74b0e TomaszStrojnowski <strojnowski.tomek@gmail.com> 1746465095 +0200	commit (initial): Custom msg interfaces
-722e2208cf7a1970048a6046550d16ae0ff74b0e 0000000000000000000000000000000000000000 TomaszStrojnowski <strojnowski.tomek@gmail.com> 1746465348 +0200	Branch: renamed refs/heads/master to refs/heads/main
-0000000000000000000000000000000000000000 722e2208cf7a1970048a6046550d16ae0ff74b0e TomaszStrojnowski <strojnowski.tomek@gmail.com> 1746465348 +0200	Branch: renamed refs/heads/master to refs/heads/main
-722e2208cf7a1970048a6046550d16ae0ff74b0e 46b4c05ad41ad23a9d4248df94e9281d4d4f10fa TomaszStrojnowski <strojnowski.tomek@gmail.com> 1746465542 +0200	pull --rebase origin main (start): checkout 46b4c05ad41ad23a9d4248df94e9281d4d4f10fa
-46b4c05ad41ad23a9d4248df94e9281d4d4f10fa 0b0136c4d67cb1c0c63bd987f8be168c6dd5d16c TomaszStrojnowski <strojnowski.tomek@gmail.com> 1746465542 +0200	pull --rebase origin main (pick): Custom msg interfaces
-0b0136c4d67cb1c0c63bd987f8be168c6dd5d16c 0b0136c4d67cb1c0c63bd987f8be168c6dd5d16c TomaszStrojnowski <strojnowski.tomek@gmail.com> 1746465542 +0200	pull --rebase origin main (finish): returning to refs/heads/main
