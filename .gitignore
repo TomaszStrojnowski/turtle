@@ -1,0 +1,7 @@
+# katalogi budowania ROS2
+build/
+install/
+log/
+# pliki Pythona
+*.pyc
+__pycache__/
